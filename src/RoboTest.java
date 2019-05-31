@@ -4,7 +4,7 @@ import java.awt.image.BufferedImage;
 import java.awt.image.SampleModel;
 import java.io.*;
 
-public class main {
+public class RoboTest {
     public static void main(String[] args) {
         Robot r = null;
         try {
